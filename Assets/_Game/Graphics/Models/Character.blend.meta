@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 6279c75bf1b60c546ba6655c3f3118b9
+timeCreated: 1498395337
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_L
+    100002: Arm_R
+    100004: Armature_001
+    100006: //RootNode
+    100008: Cube_001
+    100010: Cube_003
+    100012: Cube_004
+    100014: Cube_005
+    100016: Cube_006
+    100018: Cube_007
+    100020: Cylinder
+    100022: Cylinder_002
+    100024: Finger1_L
+    100026: Finger1_R
+    100028: Finger2_L
+    100030: Finger2_R
+    100032: Finger3_L
+    100034: Finger3_R
+    100036: Forearm_L
+    100038: Forearm_R
+    100040: HandRoot_L
+    100042: HandRoot_R
+    100044: Index1_R
+    100046: Index2_R
+    100048: Index3_R
+    100050: Palm_L
+    100052: Palm_R
+    100054: Root
+    100056: Thumb1_L
+    100058: Thumb1_R
+    100060: Thumb2_L
+    100062: Thumb2_R
+    100064: Thumb3_L
+    100066: Thumb3_R
+    400000: Arm_L
+    400002: Arm_R
+    400004: Armature_001
+    400006: //RootNode
+    400008: Cube_001
+    400010: Cube_003
+    400012: Cube_004
+    400014: Cube_005
+    400016: Cube_006
+    400018: Cube_007
+    400020: Cylinder
+    400022: Cylinder_002
+    400024: Finger1_L
+    400026: Finger1_R
+    400028: Finger2_L
+    400030: Finger2_R
+    400032: Finger3_L
+    400034: Finger3_R
+    400036: Forearm_L
+    400038: Forearm_R
+    400040: HandRoot_L
+    400042: HandRoot_R
+    400044: Index1_R
+    400046: Index2_R
+    400048: Index3_R
+    400050: Palm_L
+    400052: Palm_R
+    400054: Root
+    400056: Thumb1_L
+    400058: Thumb1_R
+    400060: Thumb2_L
+    400062: Thumb2_R
+    400064: Thumb3_L
+    400066: Thumb3_R
+    2300000: Cube_003
+    2300002: Cube_004
+    2300004: Cube_005
+    2300006: Cube_006
+    2300008: Cube_007
+    2300010: Cylinder
+    2300012: Cylinder_002
+    3300000: Cube_003
+    3300002: Cube_004
+    3300004: Cube_005
+    3300006: Cube_006
+    3300008: Cube_007
+    3300010: Cylinder
+    3300012: Cylinder_002
+    4300000: Cube_004
+    4300002: Cube_005
+    4300004: Cube_006
+    4300006: Cube_007
+    4300008: Cube_003
+    4300010: Cylinder_002
+    4300012: Cylinder
+    4300014: Cube_001
+    7400000: Shoot
+    7400002: Armature_001Action
+    7400004: Idle
+    9500000: //RootNode
+    13700000: Cube_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Shoot
+      takeName: Default Take
+      firstFrame: 1
+      lastFrame: 6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_001
+        weight: 1
+      - path: Armature_001/Root
+        weight: 1
+      - path: Armature_001/Root/Arm_L
+        weight: 1
+      - path: Armature_001/Root/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature_001/Root/Arm_L/Forearm_L/HandRoot_L
+        weight: 1
+      - path: Armature_001/Root/Arm_L/Forearm_L/HandRoot_L/Palm_L
+        weight: 1
+      - path: Armature_001/Root/Arm_L/Forearm_L/HandRoot_L/Palm_L/Finger1_L
+        weight: 1
+      - path: Armature_001/Root/Arm_L/Forearm_L/HandRoot_L/Palm_L/Finger1_L/Finger2_L
+        weight: 1
+      - path: Armature_001/Root/Arm_L/Forearm_L/HandRoot_L/Palm_L/Finger1_L/Finger2_L/Finger3_L
+        weight: 1
+      - path: Armature_001/Root/Arm_L/Forearm_L/HandRoot_L/Thumb1_L
+        weight: 1
+      - path: Armature_001/Root/Arm_L/Forearm_L/HandRoot_L/Thumb1_L/Thumb2_L
+        weight: 1
+      - path: Armature_001/Root/Arm_L/Forearm_L/HandRoot_L/Thumb1_L/Thumb2_L/Thumb3_L
+        weight: 1
+      - path: Armature_001/Root/Arm_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R/Palm_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R/Palm_R/Finger1_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R/Palm_R/Finger1_R/Finger2_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R/Palm_R/Finger1_R/Finger2_R/Finger3_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R/Palm_R/Index1_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R/Palm_R/Index1_R/Index2_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R/Palm_R/Index1_R/Index2_R/Index3_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R/Thumb1_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R/Thumb1_R/Thumb2_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R/Thumb1_R/Thumb2_R/Thumb3_R
+        weight: 1
+      - path: Cube_001
+        weight: 1
+      - path: Cube_003
+        weight: 1
+      - path: Cube_004
+        weight: 1
+      - path: Cube_005
+        weight: 1
+      - path: Cube_006
+        weight: 1
+      - path: Cube_007
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_002
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Default Take
+      firstFrame: 10
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_001
+        weight: 1
+      - path: Armature_001/Root
+        weight: 1
+      - path: Armature_001/Root/Arm_L
+        weight: 1
+      - path: Armature_001/Root/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature_001/Root/Arm_L/Forearm_L/HandRoot_L
+        weight: 1
+      - path: Armature_001/Root/Arm_L/Forearm_L/HandRoot_L/Palm_L
+        weight: 1
+      - path: Armature_001/Root/Arm_L/Forearm_L/HandRoot_L/Palm_L/Finger1_L
+        weight: 1
+      - path: Armature_001/Root/Arm_L/Forearm_L/HandRoot_L/Palm_L/Finger1_L/Finger2_L
+        weight: 1
+      - path: Armature_001/Root/Arm_L/Forearm_L/HandRoot_L/Palm_L/Finger1_L/Finger2_L/Finger3_L
+        weight: 1
+      - path: Armature_001/Root/Arm_L/Forearm_L/HandRoot_L/Thumb1_L
+        weight: 1
+      - path: Armature_001/Root/Arm_L/Forearm_L/HandRoot_L/Thumb1_L/Thumb2_L
+        weight: 1
+      - path: Armature_001/Root/Arm_L/Forearm_L/HandRoot_L/Thumb1_L/Thumb2_L/Thumb3_L
+        weight: 1
+      - path: Armature_001/Root/Arm_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R/Palm_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R/Palm_R/Finger1_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R/Palm_R/Finger1_R/Finger2_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R/Palm_R/Finger1_R/Finger2_R/Finger3_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R/Palm_R/Index1_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R/Palm_R/Index1_R/Index2_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R/Palm_R/Index1_R/Index2_R/Index3_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R/Thumb1_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R/Thumb1_R/Thumb2_R
+        weight: 1
+      - path: Armature_001/Root/Arm_R/Forearm_R/HandRoot_R/Thumb1_R/Thumb2_R/Thumb3_R
+        weight: 1
+      - path: Cube_001
+        weight: 1
+      - path: Cube_003
+        weight: 1
+      - path: Cube_004
+        weight: 1
+      - path: Cube_005
+        weight: 1
+      - path: Cube_006
+        weight: 1
+      - path: Cube_007
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_002
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
