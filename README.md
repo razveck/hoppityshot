@@ -1,4 +1,4 @@
-# hoppityshot
+# HoppityShot
 
 This is a game made for the Remake Jam 2017 in Unity3D 5.6.1f1.
 All source is provided as-is. It is intended for learning and sharing purposes.
